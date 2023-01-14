@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taejeong-slave-app.io/static/css/main.b26d2e95.css",
+    "main.js": "/taejeong-slave-app.io/static/js/main.a320e500.js",
+    "index.html": "/taejeong-slave-app.io/index.html",
+    "main.b26d2e95.css.map": "/taejeong-slave-app.io/static/css/main.b26d2e95.css.map",
+    "main.a320e500.js.map": "/taejeong-slave-app.io/static/js/main.a320e500.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b26d2e95.css",
+    "static/js/main.a320e500.js"
+  ]
+}
